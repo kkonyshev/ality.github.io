@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da49ed1f-ffe8-4090-8a81-739c1d821a47" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/clients/01_automationhero.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/clients/02_cbs.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/clients/03_cft.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/clients/04_diasoft.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/clients/05_olympus_mobility.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/clients/06_practice_Insight.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/clients/07_restore.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/clients/08_y-solutions.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/team/01_Konstantin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/team/02_Dmitry.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -37,7 +31,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img/clients" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img/team" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Global Libraries" />
@@ -47,6 +41,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img/team" />
       <recent name="$PROJECT_DIR$/assets/img/clients" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/assets" />
@@ -176,7 +171,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590056296055</updated>
-      <workItem from="1590056297418" duration="5253000" />
+      <workItem from="1590056297418" duration="7170000" />
     </task>
     <task id="LOCAL-00001" summary="header logo &amp; company name">
       <created>1590057822339</created>
@@ -199,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590060247011</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="client's logos">
+      <created>1590063391117</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590063391117</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,6 +222,7 @@
     <MESSAGE value="header logo &amp; company name" />
     <MESSAGE value="footer company info" />
     <MESSAGE value="pro version update" />
-    <option name="LAST_COMMIT_MESSAGE" value="pro version update" />
+    <MESSAGE value="client's logos" />
+    <option name="LAST_COMMIT_MESSAGE" value="client's logos" />
   </component>
 </project>
