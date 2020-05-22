@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da49ed1f-ffe8-4090-8a81-739c1d821a47" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/team/03_Eugeny.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/apple-touch-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/apple-touch-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,6 +40,9 @@
     <property name="settings.editor.selected.configurable" value="database.main" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img/team" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/img" />
       <recent name="$PROJECT_DIR$/assets/vendor/boxicons" />
@@ -173,7 +175,8 @@
       <option name="presentableId" value="Default" />
       <updated>1590056296055</updated>
       <workItem from="1590056297418" duration="7382000" />
-      <workItem from="1590065556376" duration="3900000" />
+      <workItem from="1590065556376" duration="4516000" />
+      <workItem from="1590075847389" duration="2153000" />
     </task>
     <task id="LOCAL-00001" summary="header logo &amp; company name">
       <created>1590057822339</created>
@@ -224,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590068710988</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="favicons">
+      <created>1590069902408</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1590069902408</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,6 +261,7 @@
     <MESSAGE value="team" />
     <MESSAGE value="services" />
     <MESSAGE value="rest" />
-    <option name="LAST_COMMIT_MESSAGE" value="rest" />
+    <MESSAGE value="favicons" />
+    <option name="LAST_COMMIT_MESSAGE" value="favicons" />
   </component>
 </project>
