@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da49ed1f-ffe8-4090-8a81-739c1d821a47" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/team/03_Eugeny.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +23,10 @@
   </component>
   <component name="ProjectId" id="1cDHZ8TGnzCwdHW8GPSwNAKqxuK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -50,18 +50,6 @@
       <recent name="$PROJECT_DIR$/assets/img/clients" />
       <recent name="$PROJECT_DIR$" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet">
@@ -102,68 +90,6 @@
       </method>
     </configuration>
   </component>
-  <component name="SbtLocalSettings">
-    <option name="modificationStamps">
-      <map>
-        <entry key="$USER_HOME$/Documents/workspace/my-first-app" value="1447770292000" />
-        <entry key="$USER_HOME$/Documents/workspace/scalatra-website-examples/2.4/http/authentication-demo" value="1442729122000" />
-        <entry key="$USER_HOME$/Documents/workspace/scalatra-website-examples/2.4/http/scalatra-http-demo" value="1442729122000" />
-        <entry key="$USER_HOME$/Documents/workspace/scalatra-website-examples/2.4/http/scentry-auth-demo" value="1442729122000" />
-        <entry key="$USER_HOME$/Documents/workspace/untitled1" value="1448072237000" />
-        <entry key="$USER_HOME$/dev/scala/my-scalatra-web-app" value="1436457377000" />
-      </map>
-    </option>
-    <option name="projectSyncType">
-      <map>
-        <entry key="$PROJECT_DIR$/../../../abandon" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../akka-http-soap" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../autotrader" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../invoices-api" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../jira-api" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../maintenance-dashboard/dashboard" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../maintenance-dashboard/play-samples-play-scala-forms-example" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../maintenance-dashboard/scalajs-angular" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../maintenance-dashboard/scalajs-angular-todomvc" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../monizze-api" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../coursera/Principles-Of-Reactive-Programming-master/calculator" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../coursera/functional-programming-in-scala/example" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../coursera/functional-programming-in-scala/forcomp" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../coursera/functional-programming-in-scala/funsets" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../coursera/functional-programming-in-scala/objsets" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../coursera/functional-programming-in-scala/patmat" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../coursera/functional-programming-in-scala/recfun" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../coursera/parprog1/barneshut" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../coursera/parprog1/kmeans" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../coursera/parprog1/scalashop" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../coursera/progfun2/calculator" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../coursera/progfun2/example" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../coursera/progfun2/quickcheck" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../coursera/progfun2/reductions" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../coursera/progfun2/streams" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../coursera/spark/stackoverflow" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../coursera/spark/timeusage" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../coursera/spark/wikipedia" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../finch" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../korolev" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../mu" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../orbatech/REstore/Data/algos" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../orbatech/REstore/FlexPond/common-scala" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../orbatech/REstore/FlexPond/flexible-power-backend" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../orbatech/REstore/FlexPond/notification-services" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../orbatech/REstore/IoT/battery-recharging" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../orbatech/REstore/SpecialProjects/battery-recharging" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../orbatech/REstore/Swagger/code-generation" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../orbatech/REstore/data-setup-scripts" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../play-guice-cxf/examples/play-cxf-example" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../play-guice-cxf/play-cxf" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../scala-akka-training-labs" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../scala-js-test" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../telegram" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../telegram-bot-pond" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../telegram-email-gate-bot" value="PREVIEW" />
-      </map>
-    </option>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -176,7 +102,8 @@
       <updated>1590056296055</updated>
       <workItem from="1590056297418" duration="7382000" />
       <workItem from="1590065556376" duration="4516000" />
-      <workItem from="1590075847389" duration="2153000" />
+      <workItem from="1590075847389" duration="4256000" />
+      <workItem from="1591091777674" duration="159000" />
     </task>
     <task id="LOCAL-00001" summary="header logo &amp; company name">
       <created>1590057822339</created>
@@ -234,24 +161,37 @@
       <option name="project" value="LOCAL" />
       <updated>1590069902408</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Eugeny">
+      <created>1590131090453</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1590131090453</updated>
+    </task>
+    <task id="LOCAL-00010" summary="cleaning up">
+      <created>1591091867783</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1591091867783</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="header logo &amp; company name" />
@@ -262,6 +202,14 @@
     <MESSAGE value="services" />
     <MESSAGE value="rest" />
     <MESSAGE value="favicons" />
-    <option name="LAST_COMMIT_MESSAGE" value="favicons" />
+    <MESSAGE value="Eugeny" />
+    <MESSAGE value="cleaning up" />
+    <option name="LAST_COMMIT_MESSAGE" value="cleaning up" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="236" y="336" key="CommitChangelistDialog2" timestamp="1591091867589">
+      <screen x="0" y="23" width="2560" height="1369" />
+    </state>
+    <state x="236" y="336" key="CommitChangelistDialog2/-1680.175.1680.1027/0.23.2560.1369@0.23.2560.1369" timestamp="1591091867589" />
   </component>
 </project>
