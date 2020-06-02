@@ -1,8 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="da49ed1f-ffe8-4090-8a81-739c1d821a47" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="da49ed1f-ffe8-4090-8a81-739c1d821a47" name="Default Changelist" comment="cleaning up">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +123,7 @@
       <workItem from="1590056297418" duration="7382000" />
       <workItem from="1590065556376" duration="4516000" />
       <workItem from="1590075847389" duration="4256000" />
-      <workItem from="1591091777674" duration="159000" />
+      <workItem from="1591091777674" duration="1081000" />
     </task>
     <task id="LOCAL-00001" summary="header logo &amp; company name">
       <created>1590057822339</created>
@@ -175,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591091867783</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="cleaning up">
+      <created>1591091942538</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1591091942538</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,9 +234,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="cleaning up" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="236" y="336" key="CommitChangelistDialog2" timestamp="1591091867589">
+    <state x="236" y="336" key="CommitChangelistDialog2" timestamp="1591094648024">
       <screen x="0" y="23" width="2560" height="1369" />
     </state>
-    <state x="236" y="336" key="CommitChangelistDialog2/-1680.175.1680.1027/0.23.2560.1369@0.23.2560.1369" timestamp="1591091867589" />
+    <state x="236" y="336" key="CommitChangelistDialog2/-1680.175.1680.1027/0.23.2560.1369@0.23.2560.1369" timestamp="1591094648024" />
+    <state x="100" y="123" width="925" height="1090" key="DiffContextDialog" timestamp="1591094651562">
+      <screen x="0" y="23" width="2560" height="1369" />
+    </state>
+    <state x="100" y="123" width="925" height="1090" key="DiffContextDialog/-1680.175.1680.1027/0.23.2560.1369@0.23.2560.1369" timestamp="1591094651562" />
   </component>
 </project>
